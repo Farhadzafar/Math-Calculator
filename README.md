@@ -1,5 +1,7 @@
 # Calculator App
 
+![Calculator Screenshot](./screenshot.png)
+
 This is a simple and modern calculator application built with HTML, CSS, and JavaScript. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The design is user-friendly and responsive, ensuring a great user experience on all devices.
 
 ## Features
@@ -33,5 +35,12 @@ This is a simple and modern calculator application built with HTML, CSS, and Jav
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Farhadzafar/Math-Calculator.git
    ```
+
+## About the Author
+
+For more projects and updates, visit:
+
+- [My GitHub Profile](https://github.com/Farhadzafar)
+- [My LinkedIn](https://www.linkedin.com/in/farhad-zafari-285551279/)
