@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](https://github.com/Farhadzafar/Math-Calculator/blob/main/Screenshot.png)
 
 This is a simple and modern calculator application built with HTML, CSS, and JavaScript. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The design is user-friendly and responsive, ensuring a great user experience on all devices.
 
